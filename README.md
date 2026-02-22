@@ -24,7 +24,7 @@ This is a beginner-level Python program that calculates the CGPA (out of 4.0) fo
 
 ## ▶️ How to Run
 
-Make sure Python is installed on your system.
+Make sure Python is installed on your system. The code is in the .py file.
 
 
 
